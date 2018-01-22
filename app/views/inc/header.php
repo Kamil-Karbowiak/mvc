@@ -2,9 +2,6 @@
 <html lang="pl">
 <head>
     <meta charset="utf-8">
-    <title>Document</title>
+    <title><?php echo SITE_NAME; ?></title>
 </head>
 <body>
-
-</body>
-</html>
